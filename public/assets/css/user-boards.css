@@ -10,6 +10,7 @@ body,
   margin: 0;
   padding: 0;
   height: 100%;
+  background-color: #c0c708
 }
 
 body {
@@ -19,7 +20,7 @@ body {
 }
 
 nav {
-  background-color: #0067a3;
+  background-color: #c0c708;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -56,7 +57,7 @@ nav button:focus {
 }
 
 .ui {
-  background: #ffffff;
+  background: #d8de21;
   color: #000000;
 }
 
@@ -65,7 +66,7 @@ header.welcome {
   margin-bottom: 30px;
   margin-top: 10px;
   text-align: center;
-  background-color: #edeff0;
+  background-color: #ebe8e8;
   padding: 60px;
 }
 
@@ -85,6 +86,7 @@ header.welcome h2 {
   flex-wrap: wrap;
   align-content: flex-start;
   justify-content: flex-end;
+  box-shadow: 1 3px 2 #3f6f21;
 }
 
 .boards {
@@ -106,7 +108,7 @@ button {
 }
 
 #new-board {
-  background: #61bd4f;
+  background: #70b372;
   color: #fff;
   font-weight: bold;
   box-shadow: 0 2px 0 #3f6f21;
@@ -130,7 +132,7 @@ a.board-tile {
   height: 86px;
   width: 187px;
   margin: 8px;
-  background-color: #075b8f;
+  background-color: #bd8820;
   color: #ffffff;
   display: flex;
   align-items: center;
@@ -138,7 +140,7 @@ a.board-tile {
 }
 
 a.board-tile:hover {
-  background-color: #03395a;
+  background-color: #cfb317;
 }
 
 @media (max-width: 649px) {
