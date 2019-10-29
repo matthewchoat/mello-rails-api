@@ -10,7 +10,7 @@ body,
   margin: 0;
   padding: 0;
   height: 100%;
-  background-color: #c0c708
+  background-color: #81851c
 }
 
 body {
@@ -20,7 +20,7 @@ body {
 }
 
 nav {
-  background-color: #c0c708;
+  background-color: #8f8f21;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -57,7 +57,7 @@ nav button:focus {
 }
 
 .ui {
-  background: #d8de21;
+  background: #b7bd2a;
   color: #000000;
 }
 
@@ -108,7 +108,7 @@ button {
 }
 
 #new-board {
-  background: #70b372;
+  background: #428a3b;
   color: #fff;
   font-weight: bold;
   box-shadow: 0 2px 0 #3f6f21;
@@ -122,7 +122,7 @@ button {
 }
 
 #new-board:hover {
-  background: #5aac44;
+  background: #285424;
 }
 
 a.board-tile {
@@ -132,7 +132,7 @@ a.board-tile {
   height: 86px;
   width: 187px;
   margin: 8px;
-  background-color: #bd8820;
+  background-color: #7a5f1f;
   color: #ffffff;
   display: flex;
   align-items: center;
@@ -140,7 +140,7 @@ a.board-tile {
 }
 
 a.board-tile:hover {
-  background-color: #cfb317;
+  background-color: #ad8528;
 }
 
 @media (max-width: 649px) {

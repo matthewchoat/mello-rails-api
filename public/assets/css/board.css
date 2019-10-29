@@ -10,7 +10,7 @@ body,
   margin: 0;
   padding: 0;
   height: 100%;
-  background-color: #c0c708
+  background-color: #b7bd2a;
 }
 
 body {
@@ -20,12 +20,12 @@ body {
 }
 
 .ui {
-  background-color: #d8de21;
+  background-color: #b7bd2a;
   color: #eee;
 }
 
 nav {
-  background-color: #c0c708;
+  background-color: #8f8f21;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -83,7 +83,7 @@ header {
 }
 
 .list > * {
-  background-color: #cfb317;
+  background-color: #ad8528;
   color: #333;
   padding: 0 10px;
   position: relative;
@@ -92,7 +92,7 @@ header {
 .list.add > button {
   height: 40px;
   text-align: left;
-  background-color: #bd8820;
+  background-color: #7a5f1f;
   font-weight: 100;
   color: #ffffffcc;
 }
@@ -131,7 +131,7 @@ header {
   text-align: left;
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
-  color: #888;
+  color: #285424;
   cursor: pointer;
 }
 
@@ -148,7 +148,7 @@ header {
 }
 
 .list > ul > li.ghost > * {
-  background: #bd8820;
+  background: #7a5f1f;
   color: #d6dce0;
   outline: none;
 }
@@ -166,7 +166,7 @@ header {
 
 .list.ghost > *,
 .list.ghost button {
-  background: #bd8820;
+  background: #7a5f1f;
   color: #d6d0d0;
 }
 

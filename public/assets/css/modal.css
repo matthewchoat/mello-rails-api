@@ -16,7 +16,7 @@
 }
 
 .modal__container {
-  background-color: #c0c708;
+  background-color: #b7bd2a;
   padding: 30px;
   max-width: 500px;
   max-height: 100vh;
@@ -66,7 +66,7 @@
   padding-right: 1.5rem;
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
-  background-color: #5aac44;
+  background-color: #428a3b;
   color: rgba(0, 0, 0, 0.8);
   border-radius: 0.25rem;
   border-style: none;
@@ -95,7 +95,7 @@
 }
 
 .modal__btn-primary {
-  background-color: #5aac44;
+  background-color: #428a3b;
   color: #fff;
 }
 
