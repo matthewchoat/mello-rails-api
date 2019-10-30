@@ -10,7 +10,6 @@ body,
   margin: 0;
   padding: 0;
   height: 100%;
-  background-color: #81851c
 }
 
 body {
@@ -20,14 +19,15 @@ body {
 }
 
 nav {
-  background-color: #8f8f21;
+  background-color: hsla(53, 100%, 44%, 0.6);
   display: flex;
   justify-content: space-between;
   align-items: center;
   font-size: 1.5em;
+  font-weight: bold;
   padding: 10px;
   height: 40px;
-  color: white;
+  color: hsla(26, 100%, 27%, 1);
 }
 
 nav a,
@@ -57,7 +57,8 @@ nav button:focus {
 }
 
 .ui {
-  background: #b7bd2a;
+  background-color: hsla(53, 100%, 44%, 0.9);
+  background: url(https://phoragerbucket.s3.amazonaws.com/uploads/post/picture/13/mello-2.jpg) center;
   color: #000000;
 }
 
@@ -66,8 +67,9 @@ header.welcome {
   margin-bottom: 30px;
   margin-top: 10px;
   text-align: center;
-  background-color: #ebe8e8;
+  background-color:  hsla(53, 100%, 44%, 0.3);
   padding: 60px;
+  color: hsla(26, 100%, 27%, 1);
 }
 
 header.welcome h1 {
@@ -108,7 +110,7 @@ button {
 }
 
 #new-board {
-  background: #428a3b;
+  background:  hsla(115, 40%, 39%, 1);
   color: #fff;
   font-weight: bold;
   box-shadow: 0 2px 0 #3f6f21;
@@ -122,7 +124,7 @@ button {
 }
 
 #new-board:hover {
-  background: #285424;
+  background: hsla(86, 58%, 30%, 1);
 }
 
 a.board-tile {
@@ -132,7 +134,7 @@ a.board-tile {
   height: 86px;
   width: 187px;
   margin: 8px;
-  background-color: #7a5f1f;
+  background-color: hsla(187, 58%, 32%, 1);
   color: #ffffff;
   display: flex;
   align-items: center;
@@ -140,7 +142,7 @@ a.board-tile {
 }
 
 a.board-tile:hover {
-  background-color: #ad8528;
+  background-color: hsla(187, 58%, 20%, 1);
 }
 
 @media (max-width: 649px) {

@@ -16,7 +16,7 @@
 }
 
 .modal__container {
-  background-color: #b7bd2a;
+  background-color: hsla(53, 100%, 44%, 0.8);
   padding: 30px;
   max-width: 500px;
   max-height: 100vh;
@@ -95,7 +95,7 @@
 }
 
 .modal__btn-primary {
-  background-color: #428a3b;
+  background-color: hsla(115, 40%, 39%, 1);
   color: #fff;
 }
 
