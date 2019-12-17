@@ -1,24 +1,7 @@
-# README
+<h1>Mello</h1>
+<h2>Collaborative, Online To-Do Lists </h2>
+This single-page to-do application features a fluid user interface that– by using JavaScript (JQuery and Ajax)– allows users to rapidly add dynamic content. Users can also invite others to collaborate on shared boards.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<img src="https://matthewchoat.netlify.com/trello.png" />
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+View the Heroku deploy of this applicaion and start uploading your own photos here: https://mello-list.herokuapp.com/
