@@ -4,4 +4,4 @@ This single-page to-do application features a fluid user interface that– by us
 
 <img src="https://matthewchoat.netlify.com/trello.png" />
 
-View the Heroku deploy of this applicaion and start creating your own lists here: https://mello-list.herokuapp.com/
+View the Heroku deploy of this application and start creating your own lists here: https://mello-list.herokuapp.com/
